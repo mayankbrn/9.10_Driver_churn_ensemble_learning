@@ -16,16 +16,15 @@ Recruiting and retaining drivers is seen by industry watchers as a tough battle 
 As the companies get bigger, the high churn could become a bigger problem. To find new drivers, Ola is casting a wide net, including people who don’t have cars for jobs. But this acquisition is really costly. Losing drivers frequently impacts the morale of the organization and acquiring new drivers is more expensive than retaining existing ones.
 
 
-
 ## Dataset/ Column Profiling:📋
 
 The dataset at the heart of this exploration. Here are some of the key features:
 
 ## Data Dictionary
 
-# Driver Dataset Documentation
+### Driver Dataset Documentation
 
-## Description
+### Description
 This document outlines the structure and details of the driver dataset.
 
 ### Fields:
